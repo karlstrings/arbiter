@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="arbiter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/arbiter_jar</output-path>
+    <root id="archive" name="arbiter.jar">
+      <element id="module-output" name="arbiter" />
+    </root>
+  </artifact>
+</component>
